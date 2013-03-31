@@ -1,0 +1,33 @@
+msbuild Box2D_v2.2.1\Build\vs2010\Box2D.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild Box2D_v2.2.1\Build\vs2010\Box2D.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild Box2D_v2.2.1\Build\vs2010\Box2D.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild Box2D_v2.2.1\Build\vs2010\Box2D.vcxproj /p:Platform="x64",Configuration="Release"
+
+msbuild glfw-2.7.7\support\msvc100\GLFW.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild glfw-2.7.7\support\msvc100\GLFW.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild glfw-2.7.7\support\msvc100\GLFW.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild glfw-2.7.7\support\msvc100\GLFW.vcxproj /p:Platform="x64",Configuration="Release"
+
+msbuild libogg-1.3.0\win32\VS2010\libogg_static.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild libogg-1.3.0\win32\VS2010\libogg_static.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild libogg-1.3.0\win32\VS2010\libogg_static.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild libogg-1.3.0\win32\VS2010\libogg_static.vcxproj /p:Platform="x64",Configuration="Release"
+
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbis\libvorbis_static.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbisfile\libvorbisfile_static.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbis\libvorbis_static.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbisfile\libvorbisfile_static.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbis\libvorbis_static.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbisfile\libvorbisfile_static.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbis\libvorbis_static.vcxproj /p:Platform="x64",Configuration="Release"
+msbuild libvorbis-1.3.3\win32\VS2010\libvorbisfile\libvorbisfile_static.vcxproj /p:Platform="x64",Configuration="Release"
+
+msbuild soil_20080707\projects\VC10\SOIL.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild soil_20080707\projects\VC10\SOIL.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild soil_20080707\projects\VC10\SOIL.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild soil_20080707\projects\VC10\SOIL.vcxproj /p:Platform="x64",Configuration="Release"
+
+msbuild tinyxml_2_6_2\tinyxml_lib.vcxproj /p:Platform="Win32",Configuration="Debug"
+msbuild tinyxml_2_6_2\tinyxml_lib.vcxproj /p:Platform="Win32",Configuration="Release"
+msbuild tinyxml_2_6_2\tinyxml_lib.vcxproj /p:Platform="x64",Configuration="Debug"
+msbuild tinyxml_2_6_2\tinyxml_lib.vcxproj /p:Platform="x64",Configuration="Release"

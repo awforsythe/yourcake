@@ -1,0 +1,11 @@
+*.opensdf
+*.sdf
+*.suo
+ipch/*
+bin/*
+doc/html/*
+*obj/*
+*lib-win32-debug/*
+*lib-win32-release/*
+*lib-x64-debug/*
+*lib-x64-release/*
